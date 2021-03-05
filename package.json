@@ -1,0 +1,24 @@
+{
+  "name": "email-blacklists-for-domain",
+  "version": "1.0.0",
+  "description": "Check if a domain is in email sending blacklists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavivanov/email-blacklists-for-domain.git"
+  },
+  "author": "Slav Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavivanov/email-blacklists-for-domain/issues"
+  },
+  "homepage": "https://github.com/slavivanov/email-blacklists-for-domain#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
